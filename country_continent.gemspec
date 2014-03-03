@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'constant@constant.co.za'
   s.files       = ["lib/country_continent.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/country_continent'
+    'https://github.com/constantm/CountryContinent-Gem'
   s.license       = 'MIT'
 end
